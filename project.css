@@ -401,3 +401,7 @@ a {
     opacity: 1;
     text-decoration: underline;
 }
+
+.nothing {
+    background-color: transparent;
+}
